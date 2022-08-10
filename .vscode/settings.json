@@ -2,6 +2,7 @@
     "conventionalCommits.scopes": [
         "initialize",
         "dependencies",
-        "section-5"
+        "section-5",
+        "middleware"
     ]
 }
