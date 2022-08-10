@@ -1,5 +1,7 @@
 {
     "conventionalCommits.scopes": [
-        "initialize"
+        "initialize",
+        "dependencies",
+        "section-5"
     ]
 }
