@@ -4,6 +4,9 @@
         "initialize",
         "dependencies",
         "section-5",
-        "middleware"
+        "middleware",
+        "router",
+        "controller",
+        "handler"
     ]
 }
