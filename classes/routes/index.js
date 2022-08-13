@@ -3,8 +3,9 @@ const shopRouter = require('./shop');
 const handlerError = require('./handlerError')
 
 routes = (app) => {
+    app.use('/admin', adminRouter)
+
     app.use(
-        adminRouter,
         shopRouter,
         handlerError
     );
